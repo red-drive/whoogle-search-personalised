@@ -1,5 +1,5 @@
 ![Whoogle Search](docs/banner.png)
-
+(Disclaimer: This project is being modified for personal reasons the original creators are not reason for crashing of the app in any ways)
 [![Latest Release](https://img.shields.io/github/v/release/benbusby/whoogle-search)](https://github.com/benbusby/shoogle/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![tests](https://github.com/benbusby/whoogle-search/actions/workflows/tests.yml/badge.svg)](https://github.com/benbusby/whoogle-search/actions/workflows/tests.yml)
