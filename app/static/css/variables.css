@@ -2,7 +2,7 @@
 :root {
     /* LIGHT THEME COLORS */
     --whoogle-logo: #685e79;
-    --whoogle-page-bg: #ffffff;
+    --whoogle-page-bg: #9b9191;
     --whoogle-element-bg: #685e79;
     --whoogle-text: #000000;
     --whoogle-contrast-text: #ffffff;
@@ -16,11 +16,11 @@
     /* DARK THEME COLORS */
     --whoogle-dark-logo: #888888;
     --whoogle-dark-page-bg: #080808;
-    --whoogle-dark-element-bg: #111111;
+    --whoogle-dark-element-bg: #000000;
     --whoogle-dark-text: #dddddd;
     --whoogle-dark-contrast-text: #aaaaaa;
     --whoogle-dark-secondary-text: #8a8b8c;
-    --whoogle-dark-result-bg: #111111;
+    --whoogle-dark-result-bg: #000000;
     --whoogle-dark-result-title: #dddddd;
     --whoogle-dark-result-url: #eceff4;
     --whoogle-dark-result-visited: #959595;
