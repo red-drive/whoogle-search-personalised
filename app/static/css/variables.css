@@ -16,13 +16,13 @@
     /* DARK THEME COLORS */
     --whoogle-dark-logo: #dddddd;
     --whoogle-dark-page-bg: #000000;
-    --whoogle-dark-element-bg: #000000;
+    --whoogle-dark-element-bg: #dddddd;
     --whoogle-dark-text: #dddddd;
-    --whoogle-dark-contrast-text: #aaaaaa;
-    --whoogle-dark-secondary-text: #8a8b8c;
+    --whoogle-dark-contrast-text: #f8f7f7;
+    --whoogle-dark-secondary-text: #a4a5a7;
     --whoogle-dark-result-bg: #000000;
     --whoogle-dark-result-title: #dddddd;
-    --whoogle-dark-result-url: #eceff4;
-    --whoogle-dark-result-visited: #959595;
+    --whoogle-dark-result-url: #0359ee;
+    --whoogle-dark-result-visited: #06fd50;
     --whoogle-dark-divider: #111111;
 }
